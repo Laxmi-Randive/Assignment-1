@@ -1,2 +1,2 @@
-# Assignment-1
-zeotap assignment1
+# Assignment-1 and 2
+zeotap assignment1 and 2
